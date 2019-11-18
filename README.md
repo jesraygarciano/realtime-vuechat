@@ -42,3 +42,11 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+Dependencies added:
+#### @pusher/chatkit-client, a real-time client interface for the ChatKit service
+#### bootstrap-vue, a CSS framework
+#### moment, a date and time formatting utility
+#### vue-chat-scroll, which scrolls to the bottom automatically when new content is added
+#### vuex-persist, which saves Vuex state in browser’s local storage
