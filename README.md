@@ -3,16 +3,16 @@
 
 ## The app will do the following:
 
-### Have multiple channels and rooms
-### List room members and detect presence status
-### Detect when other users start typing
+#### Have multiple channels and rooms
+#### List room members and detect presence status
+#### Detect when other users start typing
 
 
 ## Prerequisites
 
-### Vuejs basics
-### Vuex fundamentals
-### Employing a CSS framework
+#### Vuejs basics
+#### Vuex fundamentals
+#### Employing a CSS framework
 
 
 ## Project setup
