@@ -1,11 +1,19 @@
 # vuerealtime-chat
 
 
-The app will do the following:
+## The app will do the following:
 
 ### Have multiple channels and rooms
 ### List room members and detect presence status
 ### Detect when other users start typing
+
+
+## Prerequisites
+
+### Vuejs basics
+### Vuex fundamentals
+### Employing a CSS framework
+
 
 ## Project setup
 ```
